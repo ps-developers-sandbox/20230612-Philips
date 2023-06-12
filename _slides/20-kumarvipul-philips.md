@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Kumar Vipul"
 ---
 
-Caption here
+Kumar Vipul
 
-![inflatocat](https://octodex.github.com/images/inflatocat.png)
+![Vipul's profile](https://avatars.githubusercontent.com/u/15264854?v=4)
 {: .center}
