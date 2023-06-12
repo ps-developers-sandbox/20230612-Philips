@@ -5,6 +5,8 @@
 
 ## Class Resources
 #adding comment to test
+This is Priya here 
+
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
