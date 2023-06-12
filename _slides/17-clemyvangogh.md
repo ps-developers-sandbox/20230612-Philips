@@ -1,9 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Clemy van Gogh"
 ---
 
-Caption here
-
+Clemy van Gogh
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
