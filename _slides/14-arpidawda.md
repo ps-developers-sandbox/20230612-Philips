@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Arpita dawda!"
 ---
 
-Caption here
+Arpita Dawda
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
