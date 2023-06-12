@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Ayesha Siddiq S!"
 ---
 
-Caption here
+Ayesha Siddiq S
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
