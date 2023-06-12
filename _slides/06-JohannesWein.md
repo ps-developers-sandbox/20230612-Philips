@@ -1,9 +1,9 @@
----
+n---
 layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Johannes Wein
 
-![cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
+![cooler-octocat](https://en.wikipedia.org/wiki/File:Nyan_cat_250px_frame.PNG)
 {: .center}
