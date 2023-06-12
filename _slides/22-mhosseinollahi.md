@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Mohsen Hosseinollahi"
 ---
 
-Caption here
+Mohsen Hosseinollahi
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
