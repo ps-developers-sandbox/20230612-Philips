@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Nikhilesh Sonar!"
 ---
 
-Caption here
+Nikhilesh Sonar
 
-![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+![GitHub-ObiWan](https://octodex.github.com/images/octobiwan.jpg)
 {: .center}
