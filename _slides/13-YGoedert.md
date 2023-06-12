@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Yannik Goedert"
 ---
 
-Caption here
+Yannik Goedert 
 
-![droidtocat](https://octodex.github.com/images/droidtocat.png)
+![Yanniks Profil](https://www.lbv.de/assets/images/f/Amsel_Marcus_Bosch_LBV_Portraet-8963efe8.webp)
 {: .center}
