@@ -5,5 +5,6 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
-![herme-t-crabb](https://octodex.github.com/images/herme-t-crabb.png)
+![dog](https://github.com/ps-developers-sandbox/20230612-Philips/assets/93654444/00505215-dd44-47a7-bfbd-55d757f48f1a)
+)
 {: .center}
