@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Narendra Singh "
 ---
 
-Caption here
+Narendra Singh
 
-![skatetocat](https://octodex.github.com/images/skatetocat.png)
+![Narendra Singh Profile Picture](https://octodex.github.com/images/skatetocat.png)
 {: .center}
